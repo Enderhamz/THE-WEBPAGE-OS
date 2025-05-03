@@ -1,1 +1,1 @@
-# THE-WEBPAGE-OS
+This Is An Os, Made Mainly In HTML, A Bit Of CSS And Some Javascript. Right Now Its In Beta So It Can't Do Much, But In The Future Updates, It Will. Feel Free To Make Your Own Extention To It, But Make Sure To Credit Enderhamz And Make Your Project Name Look Like This (Your OS Name)Webpage-OS.
